@@ -100,7 +100,8 @@ plt.xticks(q1.index.to_numpy())
 plt.tight_layout()
 plt.show()
 ```
-(Bar Chart)
+
+![Sales by Product Category](Analysis_1.png)
 
 Findings and Actions
 - Schedule more staff during the 7am-11am period to ensure efficient service and a positive customer experience.
@@ -136,7 +137,7 @@ for i, location in enumerate(store_locations):
     plt.show()
 ```
 
-(Bar Chart)
+![Sales of Product Category by Location](Analysis_2.png)
 
 
 Findings and Actions
@@ -175,7 +176,8 @@ plt.legend(loc='upper center', bbox_to_anchor=(0.5, -0.15), ncol=3)
 plt.tight_layout()
 plt.show()
 ```
-(Line Chart)
+
+![Sales of Product Category by Month](Analysis_3.png)
 
 Findings and Actions
 - By observing this line chart, there's no specific month that other products are more preferred than the other.
@@ -199,7 +201,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-(Bar Chart)
+![Quantity Sold by Individual Product](Analysis_4.png)
 
 Findings and Actions
 - Aware of top selling products and making sure these products are always in stock.
@@ -209,4 +211,4 @@ Findings and Actions
 ### Dashboard
 After completing our analysis, I would like to finalize my findings in a dashboard. This makes insights far easier to understand for non-technical users. Since its about coffee, I make it a coffee theme dashboard ☕
 
-(Dashboard)
+![Dashboard](Dashboard.png)
