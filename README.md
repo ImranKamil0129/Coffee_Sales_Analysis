@@ -209,6 +209,6 @@ Findings and Actions
 - Could collect future data on asking customers whether its the taste or the price that makes them purchase those drinks.
 
 ### Dashboard
-After completing our analysis, I would like to finalize my findings in a dashboard. This makes insights far easier to understand for non-technical users. Since its about coffee, I make it a coffee theme dashboard ☕
+After completing my analysis, I would like to finalize my findings in a dashboard using Power BI. This makes insights far easier to understand for non-technical users. Since its about coffee, I make it a coffee theme dashboard ☕
 
 ![Dashboard](Dashboard.png)
